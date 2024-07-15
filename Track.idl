@@ -1,0 +1,12 @@
+struct TrackLatLong{
+    char shipID[50];
+    float xvalue;
+    float yvalue;
+};
+
+struct QtStruct
+{
+    float course;
+    float speed;
+    float depth;
+};
