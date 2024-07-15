@@ -59,7 +59,8 @@ Flag Updated for track: T1
 This command assumes the agent is built and installed according to the instructions provided by eProsima.
 
 ## Demo
-![Simulators](https://github.com/user-attachments/assets/2d3cbd08-f54d-401d-aac1-7523d36687fb)
+
+![Simulators](https://github.com/user-attachments/assets/c323e3b4-1c06-457c-a510-6727329a1fb5)
 
 This GIF demonstrates the Track Simulator in action, visualizing data simulated over XRCE-DDS.
 
